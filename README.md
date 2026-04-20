@@ -5,4 +5,7 @@ As always, self-explanatory by the name.
 NO. By no, I mean NO. Just use the official version and compile it from there.
 
 # huhhh
-Okay so there's some explaining. But only time will tell. 4/20 passes and goes. But... if you know what this is, go ahead and replace the file. You'll need the other half but you're halfway there!
+Okay so there's some explaining to do. First off, 4/20 passes and goes. But... if you know what this is, go ahead and replace the file. You'll need the other half but you're halfway there! If plans change, no go. 
+
+# And?
+If plans don't change. We go. Patience.
