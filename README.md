@@ -2,7 +2,7 @@
 As always, self-explanatory by the name.
 
 # Is this safe?
-NO. By no, I mean NO. Just use the official version and compile+edit it from there. Obviously, modified.
+NO. By no, I mean NO. Not a literal trojan but you're better off not using a .dll rewritten by a stranger. I'm just saying, the rewritten functions may or may not be sandboxed correctly. Plus, Datamodel scripts WILL find out about the injected globals sooner or later. Just use the official version and compile+edit it from there.
 
 # huhhh
 Okay so there's some explaining to do. First off, no, this isn't for the platform that starts with the letter R, it's P (and rightfully in a beta state). Second off, 4/20 passes and goes. But... if you know what this is, go ahead and replace the file. You'll need the other half but you're halfway there! If plans change, no go. 
