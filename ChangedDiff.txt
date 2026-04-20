@@ -4,3 +4,7 @@ target_link_libraries(Luau.VM PUBLIC Luau.Common) - > target_link_libraries(Luau
 
 # Removed.
 message(FATAL_ERROR ${LIB} " is a runtime component but it depends on one of the offline components")
+
+# Placeholder for VM files changed/MIA (I wish). Figure it out yourself.
+lapi
+lbaselib
